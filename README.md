@@ -4,8 +4,7 @@ An AI-powered automation system combining desktop automation (PyAutoGUI), web au
 
 ## Demo Video
 
-- GitHub-hosted asset (recommended):
-  [![Watch the SmartWorkflowengine demo]](https://youtu.be/dy3BxD8iAQE)
+  [![Watch the Smart-Workflow-Engine demo]](https://youtu.be/dy3BxD8iAQE)
 
 
 ## Features
