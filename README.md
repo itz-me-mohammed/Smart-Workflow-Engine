@@ -4,13 +4,8 @@ An AI-powered automation system combining desktop automation (PyAutoGUI), web au
 
 ## Demo Video
 
-- GitHub-hosted asset (recommended):
-  [![Watch the SmartWorkflowengine demo](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+  <video src="C:\Users\MOHAMMED\Desktop\Flagship Project\SmartWorkflowengine.mp4" controls width="720"></video>
 
-- Or embed a repo-hosted video (add the file at assets/video/SmartWorkflowengine.mp4):
-  <video src="assets/video/SmartWorkflowengine.mp4" controls width="720"></video>
-
-Replace VIDEO_ID or the file path with your actual video.
 
 ## Features
 
@@ -42,9 +37,6 @@ Replace VIDEO_ID or the file path with your actual video.
 - Google Gemini API key (for AI features)
 - Chrome installed (for Selenium)
 
-Optional:
-- Tesseract OCR (for OCR features)
-- ChromeDriver managed via Selenium (auto-managed in most setups)
 
 ## Backend Setup (Flask)
 
@@ -133,17 +125,8 @@ Note: If you see a 404 on OPTIONS /api/workflow/start, use the correct path /api
 curl -X POST http://localhost:8000/api/screenshot -H "Content-Type: application/json" -d "{\"filename\":\"shot.png\"}"
 ```
 
-## Troubleshooting
-
-- 404 on OPTIONS: Ensure you are calling a valid route. For workflow recording, use /api/workflow/record/start.
-- CORS: If calling from a different origin, enable CORS in Flask (flask-cors installed) or use the CRA proxy.
-- Missing dependencies: Install the packages listed above and ensure Tesseract is installed if OCR is needed.
 
 ## Contributing
 
 - Fork, create a feature branch, and submit a PR.
 - Keep code linted and documented.
-
-## License
-
-Add your preferred license here (e.g., MIT).
