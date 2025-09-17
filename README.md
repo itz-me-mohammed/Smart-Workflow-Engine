@@ -4,7 +4,10 @@ An AI-powered automation system combining desktop automation (PyAutoGUI), web au
 
 ## Demo Video
 
-  <video src="C:\Users\MOHAMMED\Desktop\Flagship Project\SmartWorkflowengine.mp4" controls width="720"></video>
+## Demo
+![Demo](C:\Users\MOHAMMED\Desktop\Flagship Project\SmartWorkflowengine.mp4)
+
+  
 
 
 ## Features
