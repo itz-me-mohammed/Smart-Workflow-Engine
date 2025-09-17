@@ -1,0 +1,72 @@
+[
+    {
+        "timestamp": "2025-09-17T15:20:17.770668",
+        "user_prompt": "step-execution",
+        "actions": [
+            {
+                "action": "open_application",
+                "application": "notepad"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-17T15:20:20.412672",
+        "user_prompt": "step-execution",
+        "actions": [
+            {
+                "action": "wait_seconds",
+                "seconds": 2
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-17T15:21:36.611431",
+        "user_prompt": "step-execution",
+        "actions": [
+            {
+                "action": "open_application",
+                "application": "notepad"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-17T15:21:39.208011",
+        "user_prompt": "step-execution",
+        "actions": [
+            {
+                "action": "wait_seconds",
+                "seconds": 2
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-17T15:27:10.612648",
+        "user_prompt": "step-execution",
+        "actions": [
+            {
+                "action": "open_application",
+                "application": "notepad"
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-17T15:27:13.233756",
+        "user_prompt": "step-execution",
+        "actions": [
+            {
+                "action": "wait_seconds",
+                "seconds": 2
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-09-17T15:27:15.739249",
+        "user_prompt": "step-execution",
+        "actions": [
+            {
+                "action": "type_text",
+                "text": "Today is a great day for automation testing"
+            }
+        ]
+    }
+]
