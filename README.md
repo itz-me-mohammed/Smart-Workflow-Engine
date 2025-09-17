@@ -1,13 +1,11 @@
-# Smart Workflow Engine (Flagship Project)
+# Smart Workflow Engine
 
-An AI-powered automation system combining desktop automation (PyAutoGUI), web automation (Selenium), workflow recording/replay, AI-based screen analysis, web scraping, and recovery tooling. Includes a React frontend (assistant-ui) and a Flask backend API.
+An AI-powered automation system combining desktop automation (PyAutoGUI), web automation (Selenium), workflow recording/replay, AI-based screen analysis, web scraping, and recovery tooling. Includes a React frontend and a Flask backend API.
 
 ## Demo Video
 
-## Demo
-![Demo](SmartWorkflowengine.mp4)
-
-  
+- GitHub-hosted asset (recommended):
+  [![Watch the SmartWorkflowengine demo]](https://youtu.be/dy3BxD8iAQE)
 
 
 ## Features
@@ -127,7 +125,6 @@ Note: If you see a 404 on OPTIONS /api/workflow/start, use the correct path /api
 ```
 curl -X POST http://localhost:8000/api/screenshot -H "Content-Type: application/json" -d "{\"filename\":\"shot.png\"}"
 ```
-
 
 ## Contributing
 
