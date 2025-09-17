@@ -2,6 +2,8 @@
 
 An AI-powered automation system combining desktop automation (PyAutoGUI), web automation (Selenium), workflow recording/replay, AI-based screen analysis, web scraping, and recovery tooling. Includes a React frontend and a Flask backend API.
 
+<img src = "Screenshot 2025-09-17 151819.png">
+
 ## Demo Video
 
   [![Watch the Smart-Workflow-Engine demo]](https://youtu.be/dy3BxD8iAQE)
